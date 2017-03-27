@@ -1,5 +1,5 @@
 
-Codebook explaining the different variables used and any transformations applied in scripts for data cleaning project.
+Codebook explaining the different variables used and any transformations applied in the script for data cleaning project.
 
 ## run_analysis.R
 
@@ -36,7 +36,7 @@ Codebook explaining the different variables used and any transformations applied
 
 ### Transformations
 
-Main transformations applied in the R scripts are:
+Main transformations applied in the R script are:
 * Merge datasets and give appropriate names
 * Extract only the measurements on the mean and standard deviation for each measurement
 * Combine subjects, labels and observations
